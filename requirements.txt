@@ -1,0 +1,5 @@
+# Core Deep Learning Framework
+tensorflow>=2.15.0,<3.0.0
+
+# Numerical Computing
+numpy>=1.24.0,<3.0.0
